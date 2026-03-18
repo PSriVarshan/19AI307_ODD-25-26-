@@ -1,4 +1,4 @@
-# Ex.No:2(B) METHODS
+# Ex.No: 2(B) METHODS
 
 ## QUESTION:
 Create two methods:
