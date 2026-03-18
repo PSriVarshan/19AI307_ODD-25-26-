@@ -1,4 +1,4 @@
-# Ex.No:5(E) MULTITHREADING -SYNCHRONIZATION
+# Ex.No: 5(E) MULTITHREADING -SYNCHRONIZATION
 
 ## QUESTION:
 Maintain two int variables a and b, read their initial values from user. Use synchronized block to swap them and print swapped values.
