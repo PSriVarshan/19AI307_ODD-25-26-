@@ -1,4 +1,4 @@
-# Ex.No:2(A) CLASS AND OBJECT
+# Ex.No: 2(A) CLASS AND OBJECT
 
 ## QUESTION:
 Create a class Vehicle with attributes as number, type and owner.
