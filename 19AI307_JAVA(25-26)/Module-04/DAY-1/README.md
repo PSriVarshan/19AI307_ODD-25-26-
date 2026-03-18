@@ -1,4 +1,4 @@
-# Ex.No:4(A) EXCEPTION HANDLING
+# Ex.No: 4(A) EXCEPTION HANDLING
 
 ## QUESTION:
 You wrote a program that stores some input strings into a String array and prints each string in uppercase.
