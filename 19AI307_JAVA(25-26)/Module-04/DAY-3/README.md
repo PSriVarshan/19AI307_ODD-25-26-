@@ -1,4 +1,4 @@
-# Ex.No:4(C)  COMPOSITION IN JAVA
+# Ex.No: 4(C)  COMPOSITION IN JAVA
 
 ## QUESTION:
 Create animals from two regions: "Africa" and "Asia". Use Abstract Factory to create families of animals (Herbivore, Carnivore). Print the interaction result.
