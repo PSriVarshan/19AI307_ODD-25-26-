@@ -1,4 +1,4 @@
-# Ex.No:3(E) INNER CLASS
+# Ex.No: 3(E) INNER CLASS
 
 ## QUESTION:
 Write a Java program to create an inner class and access it from the outer class.
