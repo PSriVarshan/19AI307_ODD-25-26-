@@ -1,4 +1,4 @@
-# Ex.No:2(D) VARIABLE SCOPE AND CONSTRUCTOR
+# Ex.No: 2(D) VARIABLE SCOPE AND CONSTRUCTOR
 
 ## QUESTION:
 Write a class Rectangle using parameterized constructor and calculate area
