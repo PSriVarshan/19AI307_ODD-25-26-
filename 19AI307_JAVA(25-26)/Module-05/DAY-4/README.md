@@ -1,4 +1,4 @@
-# Ex.No:5(D) THREAD PRIORITY
+# Ex.No: 5(D) THREAD PRIORITY
 
 ## QUESTION:
 Write a java program for determine the priority and name of the current thread.
