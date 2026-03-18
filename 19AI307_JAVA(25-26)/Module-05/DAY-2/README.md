@@ -1,4 +1,4 @@
-# Ex.No:5(B) SERIALIZATION AND DESERIALIZATION 
+# Ex.No: 5(B) SERIALIZATION AND DESERIALIZATION 
 
 ## QUESTION:
 Write a Java program to read a string from the user, compress it in memory using ByteArrayOutputStream + GZIPOutputStream, and then decompress it back using ByteArrayInputStream + GZIPInputStream.
